@@ -3,7 +3,7 @@
 - Gulp
 - TypeScript
 
-[Use this template](https://github.com/ESBuildTemplates/ts-p5/generate)
+[Use this template](https://github.com/ESBuildTemplates/ts-lib/generate)
 
 ## Library usage
 
