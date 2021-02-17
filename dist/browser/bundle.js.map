@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/index.ts", "src/app/namespace.ts"],
+  "sourcesContent": ["export * from \"./app/namespace\"\n", "export function hello() {\n  return \"Hello World!\"\n}\n"],
+  "mappings": "wGAAA,4BCAO,aACL,MAAO",
+  "names": []
+}
