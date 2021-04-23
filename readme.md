@@ -11,7 +11,7 @@
 
 Library is exported as `lib` global variable. Edit it in [gulpfile](./gulpfile.js#L17)
 
-## Node
+### Node
 
 ```js
 // JavaScript
